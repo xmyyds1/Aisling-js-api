@@ -66,7 +66,7 @@
 ### 状态判断 & 设置
 - `isValid(ptr)`、`isRemotePlayer(ptr)`、`isOnGround(ptr)`
 - `isInvisible(ptr)`、`canSee(ptr)`、`setPlayerGameType(ptr, mode)`
-- **模式参数**：`0`=生存, `1`=创造, `2`=冒险, `3`=旁观
+- **模式参数**：`0`=生存, `1`=创造, `2`=冒险, `6`=旁观
 
 ---
 
